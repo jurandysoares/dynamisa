@@ -1,0 +1,12 @@
+metal
+alcalino
+alcalinoterroso
+lantanidio
+actinidio
+transicao
+representativo
+semimetal
+ametal
+halogenio
+gasnobre
+desconhecido
