@@ -1,26 +1,26 @@
 Seres vivos
 ============
 
-Criar uma estrutura de diretórios representando a classificação dos seres vivos (taxonomia), começando pelos reinos:
+Criar uma estrutura de diretórios representando a classificação dos seres vivos (taxonomia) [#]_, começando pelos reinos:
 
-#. Monera
+* Monera
 
   * Bactéria
   * Cianobactéria
   
-#. Protista
+* Protista
 
   * Alga unicelulare
   * Protozoário
 
-#. Fungi
+* Fungi
 
   * Líquen
   * Mofo
   * Levedura
   * Cogumelo
 
-#. Plantae
+* Plantae
 
   * Alga
   * Briófita
@@ -29,7 +29,7 @@ Criar uma estrutura de diretórios representando a classificação dos seres viv
   * Angiosperma
   
 
-#. Animalia
+* Animalia
 
   * Porífera
   * Cnidário
@@ -40,4 +40,10 @@ Criar uma estrutura de diretórios representando a classificação dos seres viv
   * Artrópode
   * Vertebrado
   
+    * Peixe
+    * Anfíbio
+    * Réptil
+    *  Ave
+    * Mamífero
     
+.. [#] Grato à professora Andréa Pereira pela consultoria.
