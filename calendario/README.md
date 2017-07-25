@@ -1,4 +1,13 @@
 # Calendário
+
+## Objetivos
+* Avaliar suas habilidades de criação de diretórios (`mkdir`)
+* Avaliar suas habilidades de navegação em diretórios (`cd`)
+* Avaliar suas habilidades de listagem de arquivos (`ls`)
+* Avaliar suas habilidades de criação de arquivos por meio de redirecionamento de saída (`>` ou `>>`)
+* Avaliar suas habilidades de exibição de conteúdo de arquivos (`cat`)
+
+## Roteiro
 1. Crie uma pasta chamada `cal` e dentro dela crie as subpastas:
 * `dia`
 * `sem`
@@ -46,7 +55,7 @@ Terminadas as atividades acima, sigas as intruções para:
 
 <a name="dia">
 
-## Subpastas de um Dia
+### Subpastas de um Dia
 1. Dentro da pasta `dia` crie as subpastas:
 * `manha`
 * `tarde`
@@ -83,7 +92,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 
 <a name="semana">
 
-## Subpastas de uma Semana
+### Subpastas de uma Semana
 1. Dentro da pasta `sem` crie as subpastas:
 * `seg`
 * `ter`
@@ -152,7 +161,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 
 <a name="ano">
 
-## Subpastas de um Ano
+### Subpastas de um Ano
 Crie uma pasta chamada `ano` e dentro dela crie as subpastas:
 * `jan`
 * `fev`
