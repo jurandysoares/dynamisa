@@ -195,7 +195,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 <a name="ano">
 
 ### Subpastas de um Ano
-1. Dentro da pasta `ano`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+1. Dentro da pasta `ano` crie as subpastas:
 * `jan`
 * `fev`
 * `mar`
@@ -209,4 +209,20 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 * `nov`
 * `dez`
 
-![Ano](./imagem/ano.png)
+2. Dentro da pasta `ano`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Ano
+* [Janeiro](./jan/)
+* [Fevereiro](./fev/)
+* [Março](./mar/)
+* [Abril](./abr/)
+* [Maio](./mai/)
+* [Junho](./jun/)
+* [Julho](./jul/)
+* [Agosto](./ago/)
+* [Setembro](./set/)
+* [Outubro](./out/)
+* [Novembro](./nov/)
+* [Dezembro](./dez/)
+* [Calendário](../)
+```
