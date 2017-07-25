@@ -11,7 +11,7 @@
 * [Semana](./semana/)
 * [Ano](./ano/)
 ```
-Para criação do arquivo, você só poderá utilizar o comando `echo` e redirecionamento de saída padrão com `>` e `>>`.
+Para criação do arquivo, você só poderá utilizar o comando `echo` e redirecionamento de saída padrão com `>` ou `>>`.
 
 3. Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
