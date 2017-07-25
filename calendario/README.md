@@ -84,7 +84,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 <a name="semana">
 
 ## Subpastas de uma Semana
-Crie uma pasta chamada `semana` e dentro dela crie as subpastas:
+1. Crie uma pasta chamada `semana` e dentro dela crie as subpastas:
 * `seg`
 * `ter`
 * `qua`
@@ -93,7 +93,62 @@ Crie uma pasta chamada `semana` e dentro dela crie as subpastas:
 * `sab`
 * `dom`
 
+2. Dentro da pasta `semana`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Semana
+* [Segunda-feira](./seg/)
+* [Terça-feira](./ter/)
+* [Quarta-feira](./qua/)
+* [Quinta-feira](./qui/)
+* [Sexta-feira](./sex/)
+* [Sábado](./sab/)
+* [Domingo](./dom/)
+* [Calendário](../)
+```
 
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
+
+3. Dentro da pasta `seg`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Segunda-feira
+* [Semana](../)
+```
+
+4. Dentro da pasta `ter`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Terça-feira
+* [Semana](../)
+```
+
+5. Dentro da pasta `qua`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Quarta-feira
+* [Semana](../)
+```
+
+6. Dentro da pasta `qui`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Quinta-feira
+* [Semana](../)
+```
+
+7. Dentro da pasta `sex`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Sexta-feira
+* [Semana](../)
+```
+
+8. Dentro da pasta `sab`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Sábado
+* [Semana](../)
+```
+
+9. Dentro da pasta `dom`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+```
+# Domingo
+* [Semana](../)
+```
 
 <a name="ano">
 
