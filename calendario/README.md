@@ -1,14 +1,14 @@
 # Calendário
 1. Crie uma pasta chamada `cal` e dentro dela crie as subpastas:
 * `dia`
-* `semana`
+* `sem`
 * `ano`
 
 2. Dentro da pasta `cal`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Calendário
 * [Dia](./dia/)
-* [Semana](./semana/)
+* [Semana](./sem/)
 * [Ano](./ano/)
 ```
 Para criação do arquivo, você só poderá utilizar o comando `echo` e redirecionamento de saída padrão com `>` ou `>>`.
@@ -23,7 +23,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 
 Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
-4. Dentro da pasta `semana`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+4. Dentro da pasta `sem`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Semana
 * [Calendário](../)
@@ -47,7 +47,7 @@ Terminadas as atividades acima, sigas as intruções para:
 <a name="dia">
 
 ## Subpastas de um Dia
-1. Crie uma pasta chamada `dia` e dentro dela crie as subpastas:
+1. Dentro da pasta `dia` crie as subpastas:
 * `manha`
 * `tarde`
 * `noite`
@@ -84,7 +84,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 <a name="semana">
 
 ## Subpastas de uma Semana
-1. Crie uma pasta chamada `semana` e dentro dela crie as subpastas:
+1. Dentro da pasta `sem` crie as subpastas:
 * `seg`
 * `ter`
 * `qua`
@@ -93,7 +93,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 * `sab`
 * `dom`
 
-2. Dentro da pasta `semana`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+2. Dentro da pasta `sem`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Semana
 * [Segunda-feira](./seg/)
