@@ -91,18 +91,22 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 # Manhã
 * [Dia](../)
 ```
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
 4. Dentro da pasta `tarde`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Tarde
 * [Dia](../)
 ```
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
 5. Dentro da pasta `noite`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Noite
 * [Dia](../)
 ```
+
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
 <a name="semana">
 
@@ -138,6 +142,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 # Segunda-feira
 * [Semana](../)
 ```
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
 4. Dentro da pasta `ter`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
@@ -145,11 +150,15 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 * [Semana](../)
 ```
 
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
+
 5. Dentro da pasta `qua`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Quarta-feira
 * [Semana](../)
 ```
+
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
 6. Dentro da pasta `qui`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
@@ -157,11 +166,15 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 * [Semana](../)
 ```
 
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
+
 7. Dentro da pasta `sex`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Sexta-feira
 * [Semana](../)
 ```
+
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
 8. Dentro da pasta `sab`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
@@ -169,11 +182,15 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 * [Semana](../)
 ```
 
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
+
 9. Dentro da pasta `dom`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Domingo
 * [Semana](../)
 ```
+
+Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pandoc](http://pandoc.org/).
 
 <a name="ano">
 
