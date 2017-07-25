@@ -1,5 +1,5 @@
 # Calendário
-1. Crie uma pasta chamada `cal` e dentro dela crie as pastas:
+1. Crie uma pasta chamada `cal` e dentro dela crie as subpastas:
 * `dia`
 * `semana`
 * `ano`
