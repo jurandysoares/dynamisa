@@ -98,7 +98,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 * [Dia](../)
 ```
 
-5. Dentro da pasta ``, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+5. Dentro da pasta `noite`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Noite
 * [Dia](../)
@@ -178,7 +178,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 <a name="ano">
 
 ### Subpastas de um Ano
-1. Crie uma pasta chamada `ano` e dentro dela crie as subpastas:
+1. Dentro da pasta `ano`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 * `jan`
 * `fev`
 * `mar`
