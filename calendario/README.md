@@ -2,10 +2,19 @@
 
 ## Objetivos
 * Avaliar suas habilidades de criação de diretórios (`mkdir`)
-* Avaliar suas habilidades de navegação em diretórios (`cd`)
+* Avaliar suas habilidades de navegação em diretórios (`cd` e `pwd`)
 * Avaliar suas habilidades de listagem de arquivos (`ls`)
 * Avaliar suas habilidades de criação de arquivos por meio de redirecionamento de saída (`>` ou `>>`)
 * Avaliar suas habilidades de exibição de conteúdo de arquivos (`cat`)
+
+## Dicas para navegação em diretório
+|Símbolo|Descrição|Exemplo|
+|:---:|:---|---|
+|.|Diretório atual (`pwd`)|`./comando`|
+|..|Diretório pai (superior)|`ls ../`; `ls ../../`|
+|~|Diretório HOME (pasta base do usuário) |`cd ~/Documents`|
+|-|Diretório anterior|`cd -`|
+
 
 ## Roteiro
 1. Crie uma pasta chamada `cal` e dentro dela crie as subpastas:
