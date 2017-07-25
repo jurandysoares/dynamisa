@@ -2,6 +2,7 @@
 
 ## Objetivos
 * Avaliar suas habilidades de criação de diretórios (`mkdir`)
+* Avaliar suas habilidades de exclusão de diretórios (`rmdir` ou `rm -rf`)
 * Avaliar suas habilidades de navegação em diretórios (`cd` e `pwd`)
 * Avaliar suas habilidades de listagem de arquivos (`ls`)
 * Avaliar suas habilidades de criação de arquivos por meio de redirecionamento de saída (`>` ou `>>`)
@@ -11,7 +12,7 @@
 |Símbolo|Descrição|Exemplo|
 |:---:|:---|---|
 |.|Diretório atual (`pwd`)|`./comando`|
-|..|Diretório pai (superior)|`ls ../`; `ls ../../`|
+|..|Diretório pai (superior)|`ls ../`; `ls ../../`; `cd ..`|
 |~|Diretório HOME (pasta base do usuário) |`cd ~/Documents`|
 |-|Diretório anterior|`cd -`|
 
@@ -21,6 +22,8 @@
 * `dia`
 * `sem`
 * `ano`
+
+![Calendário](./imagem/calendario.png)
 
 2. Dentro da pasta `cal`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
@@ -70,6 +73,8 @@ Terminadas as atividades acima, sigas as intruções para:
 * `tarde`
 * `noite`
 
+![Dia](./imagem/dia.png)
+
 2. Dentro da pasta `dia`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Dia
@@ -110,6 +115,8 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 * `sex`
 * `sab`
 * `dom`
+
+![Semana](./imagem/semana.png)
 
 2. Dentro da pasta `sem`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
@@ -171,7 +178,7 @@ Converta o arquivo `index.md` para o formato HTML. Dica: Use a ferramenta [Pando
 <a name="ano">
 
 ### Subpastas de um Ano
-Crie uma pasta chamada `ano` e dentro dela crie as subpastas:
+1. Crie uma pasta chamada `ano` e dentro dela crie as subpastas:
 * `jan`
 * `fev`
 * `mar`
@@ -184,3 +191,5 @@ Crie uma pasta chamada `ano` e dentro dela crie as subpastas:
 * `out`
 * `nov`
 * `dez`
+
+![Ano](./imagem/ano.png)
