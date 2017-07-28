@@ -22,6 +22,13 @@ Crie uma estrutura de diretórios para um diário de atividades do ano.
 |~|Diretório HOME (pasta base do usuário) |`cd ~/Documents`|
 |-|Diretório anterior|`cd -`|
 
+## Instruções
+Para criação dos arquivos \<index.md>, você deverá utilizar *[here document](https://es.wikipedia.org/wiki/Here_document)*:
+```bash
+cat << FIM > index.md
+[...]
+FIM
+```
 
 ## Roteiro
 
@@ -75,7 +82,7 @@ Crie uma estrutura de diretórios para um diário de atividades do ano.
 
 2. Dentro da pasta `diario`, crie o arquivo `index.md` com o seguinte conteúdo:
 ```
-# Ano
+# Diário de ${USER}
 * [Janeiro](./jan/)
 * [Fevereiro](./fev/)
 * [Março](./mar/)
@@ -93,7 +100,9 @@ Crie uma estrutura de diretórios para um diário de atividades do ano.
 ### Primeiro dia do diário
 1. Entre na pasta do mês atual (Ex.: `cd jul`)
 2. Copie a pasta `dia` com o número dia de hoje (Ex.: `cp -rv ../dia 28`)
-3. Faça isso para todos os dias do mês:
+3. Faça isso para todos os dias do mês
+
+Se você gosta de programação, exprimente resolver o problema anterior com programação em Shell Script.
   ```bash
   for ((dia=1; dia<=31; dia++))
     do
