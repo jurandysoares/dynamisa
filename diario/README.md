@@ -103,9 +103,28 @@ FIM
 3. Faça isso para todos os dias do mês
 
 Se você gosta de programação, exprimente resolver o problema anterior com programação em Shell Script.
-  ```bash
-  for ((dia=1; dia<=31; dia++))
+  ```bash
+  # Aquecimento
+  # *do* ("faça" em Inglês) corresponde ao abre chaves ({) do C/Java
+  # *done* ("feito" em Inglês) corresponde ao fecha chaves (}) do C/Java
+  ###
+  # Exemplo 1: *For* clássico
+  for ((d=1; d<=31; d++))
     do
-      cp -r ../dia $dia
+      echo $d
+    done
+  
+  ###
+  # Exemplo 2: *For* mais simples
+  for d in {1..31}
+    do
+      echo $d
+    done
+  ```
+  ```bash
+  for ((d=1; d<=31; d++))
+    do
+      echo "Criação da pasta para o dia ${d}..."
+      cp -rv ../dia $dia
     done
   ```
