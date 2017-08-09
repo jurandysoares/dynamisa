@@ -16,6 +16,8 @@
 |~|Diretório HOME (pasta base do usuário) |`cd ~/Documents`|
 |-|Diretório anterior|`cd -`|
 
+## Pontuação
+Cada questão vale cinco (5) pontos, com a soma não podendo ultrapassar cem (100) pontos. 
 
 ## Roteiro
 1. Crie uma pasta chamada `cal` e dentro dela crie as subpastas:
